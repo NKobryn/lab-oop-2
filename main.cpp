@@ -1,6 +1,6 @@
 #include "Triangle.h"
 
 int main() {
-    showMenu();
+    runProgram();
     return 0;
 }
